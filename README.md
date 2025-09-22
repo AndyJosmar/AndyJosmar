@@ -6,9 +6,6 @@
 
 
 
-
-
-
 #  Olá, eu sou ANDY JOSMAR
 
 Sou estudante do **curso Técnico em Informática no SENAC** e atualmente curso **Ciência da Computação na UNIP**.  
