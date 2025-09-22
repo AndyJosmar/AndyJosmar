@@ -1,9 +1,4 @@
-
-
 ![banner](https://github.com/user-attachments/assets/3fc98946-92e2-4841-8056-6588775cb0c5)
-
-
-
 
 
 #  Olá, eu sou ANDY JOSMAR
